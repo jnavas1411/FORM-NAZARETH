@@ -1,0 +1,551 @@
+Cabo de la Vela,1,523,Carlos Mario Pushaina,1140369711,Sarrutsira,31/01/23,1308,28/02/23,2841,31/03/23,7899
+Cabo de la Vela,2,524,Cleina Epinayu Montiel,1147948645,Sarrutsira,31/01/23,1235,28/02/23,2062,31/03/23,2080
+Cabo de la Vela,3,525,Edilson Rafael Pushaina,1124008895,Sarrutsira,31/01/23,1492,28/02/23,3623,31/03/23,7275
+Cabo de la Vela,4,526,Edwin Gonzalez Marin ,1140369069,Sarrutsira,31/01/23,1241,28/02/23,2053,31/03/23,5101
+Cabo de la Vela,5,527,Ender Jose Gonzalez Marin,1124489224,Sarrutsira,31/01/23,1214,28/02/23,3130,31/03/23,4938
+Cabo de la Vela,6,528,Imelda Ines Marin Pushaina,40820667,Sarrutsira,31/01/23,1189,28/02/23,3178,31/03/23,6651
+Cabo de la Vela,7,529,Jaime Orlando Pushaina,17857160,Sarrutsira,31/01/23,1071,28/02/23,2800,31/03/23,3648
+Cabo de la Vela,8,530,Luz Marina Epieyu,40848682,Sarrutsira,31/01/23,1321,28/02/23,2015,31/03/23,4693
+Cabo de la Vela,9,531,Puesto de Salud Media Luna,0,Sarrutsira,31/01/23,1396,28/02/23,1948,31/03/23,2961
+Cabo de la Vela,10,532,Stefany Adriana Silva,1124010044,Sarrutsira,31/01/23,1310,28/02/23,2002,31/03/23,3647
+Cabo de la Vela,11,533,Victor Gonzalez Girnu,17867943,Sarrutsira,31/01/23,1245,28/02/23,1949,31/03/23,3929
+Cabo de la Vela,12,534,Yolanda Marin Pushaina,27023276,Sarrutsira,31/01/23,1431,28/02/23,3896,31/03/23,10667
+Cabo de la Vela,13,431,Carmelina Uriana Pushaina ,40950710,Chorretchon,31/01/23,1456,28/02/23,3009,31/03/23,5932
+Cabo de la Vela,14,434,Felicia Gonzalez Epieyu,56070743,Chorretchon,31/01/23,1059,28/02/23,2411,31/03/23,4101
+Cabo de la Vela,15,435,Franklin Epinayu Uriana ,1192902480,Chorretchon,31/01/23,1169,28/02/23,1846,31/03/23,4769
+Cabo de la Vela,16,437,Juana Del Mira Iguaran Marin,1124496296,Chorretchon,31/01/23,1193,28/02/23,3465,31/03/23,3518
+Cabo de la Vela,17,438,Kaliman Epieyu,5184549,Chorretchon,31/01/23,1164,28/02/23,3240,31/03/23,8615
+Cabo de la Vela,18,441,Luis Mario Epieyu,1192732036,Chorretchon,31/01/23,1143,28/02/23,1724,31/03/23,2605
+Cabo de la Vela,19,443,Luz Dary Gonzalez Epieyu,1124507249,Chorretchon,31/01/23,1256,28/02/23,2000,31/03/23,3040
+Cabo de la Vela,20,445,Maria Uriana Epieyu,36465597,Chorretchon,31/01/23,1014,28/02/23,2328,31/03/23,5097
+Cabo de la Vela,21,449,Sergio David Marin Aguilar,1124501469,Chorretchon,31/01/23,1064,28/02/23,1424,31/03/23,2041
+Cabo de la Vela,22,450,Shirly Dolores Iguaran,1124485439,Chorretchon,31/01/23,1033,28/02/23,2046,31/03/23,4947
+Cabo de la Vela,23,452,UCA Chorretchon,1124485439,Chorretchon,31/01/23,1015,28/02/23,2328,31/03/23,3989
+Cabo de la Vela,24,428,Alex Jose Marin ,1124484711,Chorretchon,31/01/23,1059,28/02/23,2909,31/03/23,8594
+Cabo de la Vela,25,429,Auxilia Pushaina Ipuana ,56071800,Chorretchon,31/01/23,1357,28/02/23,1432,31/03/23,4274
+Cabo de la Vela,26,430,Brayan Jose Bruges,1192750922,Chorretchon,31/01/23,1322,28/02/23,2750,31/03/23,6523
+Cabo de la Vela,27,432,Cecilia Epieyu,40857193,Chorretchon,31/01/23,1016,28/02/23,2278,31/03/23,3117
+Cabo de la Vela,28,433,Esther Maria Epieyu,40852118,Chorretchon,31/01/23,1000,28/02/23,2972,31/03/23,8706
+Cabo de la Vela,29,436,Jose Epieyu,1124360113,Chorretchon,31/01/23,1032,28/02/23,2384,31/03/23,4185
+Cabo de la Vela,30,439,Leidis Johana Epieyu,1192806377,Chorretchon,31/01/23,1309,28/02/23,2351,31/03/23,5072
+Cabo de la Vela,31,440,Lisbeth Del Mar Fernandez,1123993255,Chorretchon,31/01/23,1182,28/02/23,2660,31/03/23,5576
+Cabo de la Vela,32,442,Luis Oswaldo Iguaran ,1124500220,Chorretchon,31/01/23,1165,28/02/23,2162,31/03/23,3286
+Cabo de la Vela,33,444,Maria Gomez Ipuana ,40914887,Chorretchon,31/01/23,1208,28/02/23,2113,31/03/23,3339
+Cabo de la Vela,34,446,Nolida Aguilar Epieyu,1124370835,Chorretchon,31/01/23,1022,28/02/23,2159,31/03/23,6183
+Cabo de la Vela,35,447,Pedro Ignacio Ipuana ,17875321,Chorretchon,31/01/23,1033,28/02/23,2041,31/03/23,4095
+Cabo de la Vela,36,448,Salomon Epieyu,1124360116,Chorretchon,31/01/23,1318,28/02/23,2135,31/03/23,2450
+Cabo de la Vela,37,451,Tina Aguilar Epieyu,40951762,Chorretchon,31/01/23,1300,28/02/23,3875,31/03/23,9107
+Cabo de la Vela,38,453,Yenis Mengual Gonzalez,1124497107,Chorretchon,31/01/23,1405,28/02/23,2175,31/03/23,3933
+Cabo de la Vela,39,421,Alonso Uriana ,17828553,Casa Blanca ,31/01/23,1072,28/02/23,2856,31/03/23,3512
+Cabo de la Vela,40,422,Andrea Paola Uriana ,1124479729,Casa Blanca ,31/01/23,1090,28/02/23,2575,31/03/23,3334
+Cabo de la Vela,41,423,Caris Uriana ,40970222,Casa Blanca ,31/01/23,1257,28/02/23,1366,31/03/23,1492
+Cabo de la Vela,42,425,Karen Valeria Uriana ,1122838730,Casa Blanca ,31/01/23,1000,28/02/23,2970,31/03/23,8573
+Cabo de la Vela,43,426,Marlon Romero,84029466,Casa Blanca ,31/01/23,1328,28/02/23,3002,31/03/23,4865
+Cabo de la Vela,44,427,UCA Casa Blanca ,17809974,Casa Blanca ,31/01/23,1193,28/02/23,3138,31/03/23,6387
+Cabo de la Vela,45,454,Alfredo Jose Gonzalez epinayu,17817514,Lechemana,31/01/23,1431,28/02/23,1897,31/03/23,2854
+Cabo de la Vela,46,455,Ana Del Carmen Gonzalez,56069900,Lechemana,31/01/23,1271,28/02/23,3622,31/03/23,9519
+Cabo de la Vela,47,457,Eliana Mendoza,1192785108,Lechemana,31/01/23,1102,28/02/23,1953,31/03/23,5511
+Cabo de la Vela,48,458,Erika Mugno,1118841855,Lechemana,31/01/23,1332,28/02/23,1880,31/03/23,4972
+Cabo de la Vela,49,459,Evelin Stefany Mugno,1118820874,Lechemana,31/01/23,1209,28/02/23,1699,31/03/23,2274
+Cabo de la Vela,50,460,Federico Montiel Uriana ,1124018281,Lechemana,31/01/23,1134,28/02/23,1858,31/03/23,4024
+Cabo de la Vela,51,461,Felipe Gonzalez Pushaina,84083302,Lechemana,31/01/23,1138,28/02/23,2047,31/03/23,3065
+Cabo de la Vela,52,462,Iara Ballesteros Gonzalez,1124489653,Lechemana,31/01/23,1118,28/02/23,2994,31/03/23,5515
+Cabo de la Vela,53,463,Javier Gomez Uriana ,17827191,Lechemana,31/01/23,1087,28/02/23,1481,31/03/23,4309
+Cabo de la Vela,54,464,Jeferson Mendoza,1118864380,Lechemana,31/01/23,1267,28/02/23,2869,31/03/23,5536
+Cabo de la Vela,55,465,Jose Gabriel Mejia,1124489653,Lechemana,31/01/23,1301,28/02/23,2788,31/03/23,6991
+Cabo de la Vela,56,466,Jose Nelson Rincon,14231244,Lechemana,31/01/23,1237,28/02/23,2671,31/03/23,5966
+Cabo de la Vela,57,467,Jose Tomas Freyle,5184847,Lechemana,31/01/23,1195,28/02/23,1509,31/03/23,3023
+Cabo de la Vela,58,468,Jose Vicente Uriana ,1124481277,Lechemana,31/01/23,1266,28/02/23,3492,31/03/23,5239
+Cabo de la Vela,59,469,Lauro Jose Gonzalez Uriana,17868288,Lechemana,31/01/23,1226,28/02/23,2140,31/03/23,3029
+Cabo de la Vela,60,471,Nidia Gonzalez ,40926188,Lechemana,31/01/23,1271,28/02/23,2040,31/03/23,5924
+Cabo de la Vela,61,474,Rosalinda Iguaran,56070725,Lechemana,31/01/23,1351,28/02/23,3994,31/03/23,9372
+Cabo de la Vela,62,479,Yosbeli Epieyu,1124491710,Lechemana,31/01/23,1383,28/02/23,2984,31/03/23,5530
+Cabo de la Vela,63,480,Yunis De Jesus Iguaran,56069929,Lechemana,31/01/23,1333,28/02/23,1969,31/03/23,2976
+Cabo de la Vela,64,472,Nubia Pereda,40840761,Lechemana,31/01/23,1492,28/02/23,1560,31/03/23,3873
+Cabo de la Vela,65,476,Yeidis Milena Uriana ,1124369356,Lechemana,31/01/23,1063,28/02/23,2745,31/03/23,6624
+Cabo de la Vela,66,477,Yeiner Jose Uriana Pereda,1124401273,Lechemana,31/01/23,1469,28/02/23,2008,31/03/23,3699
+Cabo de la Vela,67,478,Yeliseth Maria Uriana ,1192752014,Lechemana,31/01/23,1421,28/02/23,2609,31/03/23,7666
+Cabo de la Vela,68,535,Alicia Pushaina,56073149,Warrerushi,31/01/23,1248,28/02/23,3112,31/03/23,3298
+Cabo de la Vela,69,536,Almita Uriana Pushaina,40952062,Warrerushi,31/01/23,1238,28/02/23,3217,31/03/23,6171
+Cabo de la Vela,70,538,Concepción Uriana Pushaina,56072149,Warrerushi,31/01/23,1372,28/02/23,2229,31/03/23,5865
+Cabo de la Vela,71,539,Ederson Uriana Pushaina ,1192731972,Warrerushi,31/01/23,1057,28/02/23,1082,31/03/23,1121
+Cabo de la Vela,72,540,Elmer Alfonso Uriana Pushaina,1010158064,Warrerushi,31/01/23,1149,28/02/23,1382,31/03/23,2314
+Cabo de la Vela,73,541,Felicia Pushaina Epieyu,27031944,Warrerushi,31/01/23,1414,28/02/23,2325,31/03/23,2332
+Cabo de la Vela,74,542,Galvis Enrique Uriana Pushaina,1124522049,Warrerushi,31/01/23,1138,28/02/23,2172,31/03/23,3707
+Cabo de la Vela,75,543,Javier Epieyu,1124481032,Warrerushi,31/01/23,1481,28/02/23,1947,31/03/23,4770
+Cabo de la Vela,76,545,Nancy Epieyu,40848701,Warrerushi,31/01/23,1343,28/02/23,1984,31/03/23,3990
+Cabo de la Vela,77,549,Wilmar Uriana Pushaina,1192731971,Warrerushi,31/01/23,1331,28/02/23,1440,31/03/23,3832
+Cabo de la Vela,78,550,Yeferson Jair Uriana Pushaina ,1192813130,Warrerushi,31/01/23,1385,28/02/23,3388,31/03/23,9164
+Cabo de la Vela,79,456,Delis Epieyu,1147948502,Lechemana,31/01/23,1274,28/02/23,1908,31/03/23,5525
+Cabo de la Vela,80,470,Miguelito Epieyu,17855074,Lechemana,31/01/23,1201,28/02/23,3122,31/03/23,3640
+Cabo de la Vela,81,473,Paola Carolina Epinayu,1147948499,Lechemana,31/01/23,1314,28/02/23,2190,31/03/23,4598
+Cabo de la Vela,82,475,Yani Milena Epinayu,1147948498,Lechemana,31/01/23,1135,28/02/23,1496,31/03/23,1718
+Cabo de la Vela,83,504,Alcides Epieyu Epieyu,5185129,Pioulekat,31/01/23,1101,28/02/23,1175,31/03/23,1923
+Cabo de la Vela,84,509,Cenith Bernier Epinayu,1124507857,Pioulekat,31/01/23,1118,28/02/23,2404,31/03/23,4619
+Cabo de la Vela,85,521,Saida Pushaina,1124480996,Pioulekat,31/01/23,1003,28/02/23,1701,31/03/23,2610
+Cabo de la Vela,86,537,Andres Camilo Uriana Pushaina,1124408051,Warrerushi,31/01/23,1415,28/02/23,3358,31/03/23,3650
+Cabo de la Vela,87,544,Lucila Pushaina,56073139,Warrerushi,31/01/23,1233,28/02/23,2604,31/03/23,3814
+Cabo de la Vela,88,546,Pancho Pushaina,17990218,Warrerushi,31/01/23,1299,28/02/23,1564,31/03/23,2218
+Cabo de la Vela,89,547,Sede I.E Warrerushi,56073139,Warrerushi,31/01/23,1312,28/02/23,2525,31/03/23,5648
+Cabo de la Vela,90,548,UCA ICBF Warrerushi,56073139,Warrerushi,31/01/23,1438,28/02/23,3993,31/03/23,9319
+Cabo de la Vela,91,505,Alfredo Epieyu,84064172,Pioulekat,31/01/23,1205,28/02/23,2942,31/03/23,7789
+Cabo de la Vela,92,506,Beatriz Girnu,1151459101,Pioulekat,31/01/23,1159,28/02/23,1185,31/03/23,3060
+Cabo de la Vela,93,508,Celia Epieyu Peres,1124485851,Pioulekat,31/01/23,1400,28/02/23,1711,31/03/23,4471
+Cabo de la Vela,94,511,Doris Aurora Epieyu P,1124479807,Pioulekat,31/01/23,1138,28/02/23,2831,31/03/23,5585
+Cabo de la Vela,95,512,Flor Eneida Perez E,56069242,Pioulekat,31/01/23,1375,28/02/23,2791,31/03/23,5307
+Cabo de la Vela,96,513,Jose Luis Epieyu P,1124485852,Pioulekat,31/01/23,1087,28/02/23,2567,31/03/23,2647
+Cabo de la Vela,97,515,Maria Josefa Epieyu Perez,1124479805,Pioulekat,31/01/23,1446,28/02/23,2319,31/03/23,4353
+Cabo de la Vela,98,516,Miladis Epieyu Uriana,1140365171,Pioulekat,31/01/23,1449,28/02/23,2608,31/03/23,3800
+Cabo de la Vela,99,522,Teodoro Jimenez,1124507947,Pioulekat,31/01/23,1175,28/02/23,1803,31/03/23,5061
+Cabo de la Vela,100,507,Betty Epieyu Montiel ,1124479760,Pioulekat,31/01/23,1335,28/02/23,2712,31/03/23,3016
+Cabo de la Vela,101,510,Claro Cote Epieyu,84065038,Pioulekat,31/01/23,1424,28/02/23,3203,31/03/23,5101
+Cabo de la Vela,102,514,Magdalena Epinayu,56072696,Pioulekat,31/01/23,1247,28/02/23,2755,31/03/23,2963
+Cabo de la Vela,103,517,Osiris Epieyu,40848690,Pioulekat,31/01/23,1359,28/02/23,3930,31/03/23,11450
+Cabo de la Vela,104,518,Rafael Santos Almazo,1122839202,Pioulekat,31/01/23,1170,28/02/23,2855,31/03/23,6641
+Cabo de la Vela,105,519,Rebeca Epiayu,56072695,Pioulekat,31/01/23,1473,28/02/23,1662,31/03/23,2460
+Cabo de la Vela,106,520,Rubia Epinayu Epiayu,56065605,Pioulekat,31/01/23,1155,28/02/23,3350,31/03/23,5827
+Cabo de la Vela,107,481,Alida Josefina Malvar Gonzalez,1124498919,Piulat,31/01/23,1247,28/02/23,1557,31/03/23,2860
+Cabo de la Vela,108,482,Angela Uriana,1.24.479.732,Piulat,31/01/23,1238,28/02/23,2334,31/03/23,3970
+Cabo de la Vela,109,483,Angelica Jimenez,1124517344,Piulat,31/01/23,1212,28/02/23,2880,31/03/23,4027
+Cabo de la Vela,110,495,Maritza Pushaina,27034009,Piulat,31/01/23,1371,28/02/23,2678,31/03/23,5322
+Cabo de la Vela,111,497,Mory Epinayu,17855312,Piulat,31/01/23,1047,28/02/23,1892,31/03/23,3154
+Cabo de la Vela,112,500,Soradi Salazar,1124490187,Piulat,31/01/23,1199,28/02/23,2682,31/03/23,6057
+Cabo de la Vela,113,501,Soraida Mejia Epinayu,40941387,Piulat,31/01/23,1439,28/02/23,3458,31/03/23,6753
+Cabo de la Vela,114,503,Yanilsa Gabriela Epinayu E,1124507858,Piulat,31/01/23,1488,28/02/23,2895,31/03/23,6876
+Cabo de la Vela,115,484,Anicia Pushaina Epinayu,56070627,Piulat,31/01/23,1361,28/02/23,3181,31/03/23,9365
+Cabo de la Vela,116,485,Aristizabal Epieyu,84063718,Piulat,31/01/23,1158,28/02/23,2337,31/03/23,4685
+Cabo de la Vela,117,489,Brigida Yaritza Pushaina,1121550031,Piulat,31/01/23,1074,28/02/23,1255,31/03/23,1398
+Cabo de la Vela,118,490,Jalisco Pushaina,12465265,Piulat,31/01/23,1330,28/02/23,3713,31/03/23,4934
+Cabo de la Vela,119,491,Jose Alisco Pushaina,17828556,Piulat,31/01/23,1304,28/02/23,2023,31/03/23,2584
+Cabo de la Vela,120,493,Litza Remedios Epinayu E,1124481793,Piulat,31/01/23,1449,28/02/23,3786,31/03/23,4387
+Cabo de la Vela,121,502,Virginia Uriana Uriana,56069252,Piulat,31/01/23,1331,28/02/23,2656,31/03/23,7043
+Cabo de la Vela,122,486,Basilia Epinayu,36465385,Piulat,31/01/23,1408,28/02/23,1637,31/03/23,4148
+Cabo de la Vela,123,487,Beatriz Epiayu,36465376,Piulat,31/01/23,1074,28/02/23,1927,31/03/23,5273
+Cabo de la Vela,124,488,Bentuza Epinayu,84063722,Piulat,31/01/23,1425,28/02/23,3161,31/03/23,8852
+Cabo de la Vela,125,492,Kela Epinayu,27034387,Piulat,31/01/23,1096,28/02/23,2806,31/03/23,3259
+Cabo de la Vela,126,494,Maribel Pushaina Epinayu,1006918768,Piulat,31/01/23,1210,28/02/23,1997,31/03/23,3724
+Cabo de la Vela,127,496,Miladis Pushaina Epinayu,56070686,Piulat,31/01/23,1365,28/02/23,2666,31/03/23,4466
+Cabo de la Vela,128,498,Petulia Indira Epinayu,56070628,Piulat,31/01/23,1096,28/02/23,2873,31/03/23,3179
+Cabo de la Vela,129,499,Rosario Elena Pushaina Epinayu,1124494571,Piulat,31/01/23,1144,28/02/23,1636,31/03/23,2832
+Cabo de la Vela,130,3,Adelaida Gonzalez Lopez,27034783,Cabo De La Vela,31/01/23,1176,28/02/23,2680,31/03/23,3870
+Cabo de la Vela,131,10,Alda Barliza Pushaina,36465547,Cabo De La Vela,31/01/23,1226,28/02/23,3594,31/03/23,5741
+Cabo de la Vela,132,11,Alda Josefina Lopez Barliza,27026453,Cabo De La Vela,31/01/23,1460,28/02/23,4125,31/03/23,8904
+Cabo de la Vela,133,20,Ana Moreno Osorio,37710967,Cabo De La Vela,31/01/23,1235,28/02/23,1721,31/03/23,2768
+Cabo de la Vela,134,27,Annelis Jaidith Pushaina G,1124405098,Cabo De La Vela,31/01/23,1306,28/02/23,1875,31/03/23,3237
+Cabo de la Vela,135,38,Ayari Mercedes Lopez,56069927,Cabo De La Vela,31/01/23,1477,28/02/23,1700,31/03/23,3067
+Cabo de la Vela,136,59,Celina Epieyu,56100486,Cabo De La Vela,31/01/23,1496,28/02/23,2659,31/03/23,6528
+Cabo de la Vela,137,77,Dinan Yuseth Gamez Gutierrez,1192905356,Cabo De La Vela,31/01/23,1106,28/02/23,2522,31/03/23,7414
+Cabo de la Vela,138,104,Francisco De La Espriella,9057737,Cabo De La Vela,31/01/23,1076,28/02/23,2890,31/03/23,3419
+Cabo de la Vela,139,116,Hernando Romero,17809974,Cabo De La Vela,31/01/23,1458,28/02/23,2050,31/03/23,6069
+Cabo de la Vela,140,134,Jandri De Jesus Barliza,1192750896,Cabo De La Vela,31/01/23,1329,28/02/23,2313,31/03/23,3200
+Cabo de la Vela,141,140,Jhon Antoni Barros Lopez,1065639036,Cabo De La Vela,31/01/23,1390,28/02/23,3205,31/03/23,5040
+Cabo de la Vela,142,149,Jonathan David Lopez,1006918521,Cabo De La Vela,31/01/23,1218,28/02/23,2183,31/03/23,4976
+Cabo de la Vela,143,185,Keilin De La Espriella Matute,1124500407,Cabo De La Vela,31/01/23,1299,28/02/23,3247,31/03/23,4619
+Cabo de la Vela,144,186,Keiny Rodriguez,1002324795,Cabo De La Vela,31/01/23,1050,28/02/23,1261,31/03/23,2651
+Cabo de la Vela,145,297,Tayashay De Jesus Lopez B,1124479559,Cabo De La Vela,31/01/23,1304,28/02/23,2643,31/03/23,7238
+Cabo de la Vela,146,308,Yaileth Gamez Pino,40930486,Cabo De La Vela,31/01/23,1096,28/02/23,2962,31/03/23,7820
+Cabo de la Vela,147,551,Rafael Ricardo Mendoza Suarez,84063330,Cabo De La Vela,31/01/23,1268,28/02/23,3000,31/03/23,5606
+Cabo de la Vela,148,552,Sirleidis Mikel Ponce Lopez,1192905285,Cabo De La Vela,31/01/23,1002,28/02/23,2293,31/03/23,5401
+Cabo de la Vela,149,315,Yoalid Margarita Mejia,1124496391,Cabo De La Vela,31/01/23,1426,28/02/23,3899,31/03/23,6748
+Cabo de la Vela,150,4,Adonilson Barliza Sanches,5184543,Cabo De La Vela,31/01/23,1229,28/02/23,2252,31/03/23,6520
+Cabo de la Vela,151,7,Alberto Epiayu,17804077,Cabo De La Vela,31/01/23,1133,28/02/23,1627,31/03/23,3385
+Cabo de la Vela,152,9,Alcira Del Carmen Yaneris Pineda,23049950,Cabo De La Vela,31/01/23,1103,28/02/23,3235,31/03/23,4268
+Cabo de la Vela,153,31,Arellys Uriana,1192751648,Cabo De La Vela,31/01/23,1462,28/02/23,4109,31/03/23,11628
+Cabo de la Vela,154,32,Argelia Barliza,40820568,Cabo De La Vela,31/01/23,1055,28/02/23,2755,31/03/23,5158
+Cabo de la Vela,155,39,Barbara Sanches Girnu,40942708,Cabo De La Vela,31/01/23,1403,28/02/23,3992,31/03/23,8794
+Cabo de la Vela,156,47,Breiner Marquez Bujato,1006893027,Cabo De La Vela,31/01/23,1019,28/02/23,2501,31/03/23,6414
+Cabo de la Vela,157,73,Deiby Rodriguez,1124025943,Cabo De La Vela,31/01/23,1347,28/02/23,3802,31/03/23,8939
+Cabo de la Vela,158,74,Delia Leonor Mengual Barliza,27034794,Cabo De La Vela,31/01/23,1416,28/02/23,2804,31/03/23,3925
+Cabo de la Vela,159,75,Delis Maria Barliza,56070616,Cabo De La Vela,31/01/23,1124,28/02/23,3083,31/03/23,5146
+Cabo de la Vela,160,79,Dolores Barliza Sanches,40935190,Cabo De La Vela,31/01/23,1124,28/02/23,2706,31/03/23,4997
+Cabo de la Vela,161,102,Francia Epieyu Ipuana,27034510,Cabo De La Vela,31/01/23,1081,28/02/23,2474,31/03/23,3388
+Cabo de la Vela,162,110,Gladys Remedios Barliza Sanchez,27034429,Cabo De La Vela,31/01/23,1209,28/02/23,2735,31/03/23,8195
+Cabo de la Vela,163,118,Idalia Ibarra Verber,40981281,Cabo De La Vela,31/01/23,1406,28/02/23,2709,31/03/23,5578
+Cabo de la Vela,164,128,Isabel Urariyu,40857392,Cabo De La Vela,31/01/23,1200,28/02/23,3246,31/03/23,4931
+Cabo de la Vela,165,130,Ivana de Jesus Capataz Bernier,1118800440,Cabo De La Vela,31/01/23,1024,28/02/23,2163,31/03/23,4069
+Cabo de la Vela,166,132,Jaime Jimenez,1123991253,Cabo De La Vela,31/01/23,1297,28/02/23,1353,31/03/23,2409
+Cabo de la Vela,167,133,Jairo Enrique Ipuana,17828462,Cabo De La Vela,31/01/23,1051,28/02/23,2606,31/03/23,2963
+Cabo de la Vela,168,141,Jhon Luis Acosta Arci,1123409683,Cabo De La Vela,31/01/23,1425,28/02/23,2817,31/03/23,7900
+Cabo de la Vela,169,151,Jorge Eliecer Bernier Epinayu,84096730,Cabo De La Vela,31/01/23,1375,28/02/23,3810,31/03/23,8488
+Cabo de la Vela,170,160,Jose Eusebio Gonzalez,1151457546,Cabo De La Vela,31/01/23,1131,28/02/23,2873,31/03/23,5922
+Cabo de la Vela,171,161,Jose Francisco Gutierrez Epieyu,1192905307,Cabo De La Vela,31/01/23,1227,28/02/23,2435,31/03/23,6057
+Cabo de la Vela,172,165,Josefa Epieyu,56072260,Cabo De La Vela,31/01/23,1174,28/02/23,2143,31/03/23,5843
+Cabo de la Vela,173,189,Keyla Lozano Ipuana,1124052729,Cabo De La Vela,31/01/23,1125,28/02/23,1498,31/03/23,4239
+Cabo de la Vela,174,191,Ledis Del Carmen Epieyu,56072659,Cabo De La Vela,31/01/23,1462,28/02/23,4382,31/03/23,8935
+Cabo de la Vela,175,198,Liliana Epiayu Pushaina,36466631,Cabo De La Vela,31/01/23,1365,28/02/23,3162,31/03/23,3659
+Cabo de la Vela,176,208,Luz Mary Ipuana,56073042,Cabo De La Vela,31/01/23,1023,28/02/23,1996,31/03/23,4463
+Cabo de la Vela,177,215,Maria Alejandra Marin,1122841147,Cabo De La Vela,31/01/23,1340,28/02/23,3674,31/03/23,8569
+Cabo de la Vela,178,217,Maria Brunilda Mengual,40849125,Cabo De La Vela,31/01/23,1475,28/02/23,3106,31/03/23,9067
+Cabo de la Vela,179,220,Maria del Carmen Velasquez,40820870,Cabo De La Vela,31/01/23,1085,28/02/23,1468,31/03/23,1593
+Cabo de la Vela,180,221,Maria Del Socorro Fajardo Gomez,40789861,Cabo De La Vela,31/01/23,1467,28/02/23,2257,31/03/23,3032
+Cabo de la Vela,181,222,Maria Elena Velasquez,27022014,Cabo De La Vela,31/01/23,1472,28/02/23,2711,31/03/23,4819
+Cabo de la Vela,182,224,Maria Flor Uriana,27045834,Cabo De La Vela,31/01/23,1334,28/02/23,1529,31/03/23,4414
+Cabo de la Vela,183,226,Maria Isabel Epieyu,1124481507,Cabo De La Vela,31/01/23,1343,28/02/23,2150,31/03/23,4386
+Cabo de la Vela,184,241,Minelba Maria Redondo Aragon,43575678,Cabo De La Vela,31/01/23,1153,28/02/23,3438,31/03/23,5826
+Cabo de la Vela,185,257,Patricia Uriana,1124491766,Cabo De La Vela,31/01/23,1259,28/02/23,2998,31/03/23,8699
+Cabo de la Vela,186,258,Pedro Barliza,1124491757,Cabo De La Vela,31/01/23,1032,28/02/23,1300,31/03/23,2229
+Cabo de la Vela,187,271,Rodolfo Vicente Mengual Barliza,17868593,Cabo De La Vela,31/01/23,1408,28/02/23,3417,31/03/23,6994
+Cabo de la Vela,188,273,Roman Romero Velasquez,1124480169,Cabo De La Vela,31/01/23,1118,28/02/23,2598,31/03/23,6213
+Cabo de la Vela,189,279,Rosendo Joaquin Palacios,1147947549,Cabo De La Vela,31/01/23,1451,28/02/23,3578,31/03/23,5746
+Cabo de la Vela,190,300,Valeria Pimienta,1123990109,Cabo De La Vela,31/01/23,1406,28/02/23,3712,31/03/23,6696
+Cabo de la Vela,191,306,Wilmer Barliza,1006918529,Cabo De La Vela,31/01/23,1218,28/02/23,1651,31/03/23,1805
+Cabo de la Vela,192,317,Yolanda Isabel Barliza,1192905248,Cabo De La Vela,31/01/23,1036,28/02/23,2366,31/03/23,3852
+Cabo de la Vela,193,8,Albis Edwin Vidal Baron,1192809472,Cabo De La Vela,31/01/23,1158,28/02/23,1427,31/03/23,3338
+Cabo de la Vela,194,41,Bernardo Ipuana,1147947443,Cabo De La Vela,31/01/23,1130,28/02/23,3243,31/03/23,6814
+Cabo de la Vela,195,51,Carmen Epieyu Uriana,56071761,Cabo De La Vela,31/01/23,1096,28/02/23,2495,31/03/23,5126
+Cabo de la Vela,196,52,Carmen Ipuana Epieyu,1124495526,Cabo De La Vela,31/01/23,1033,28/02/23,3084,31/03/23,7244
+Cabo de la Vela,197,61,Centro Multiproposito C V,0,Cabo De La Vela,31/01/23,1260,28/02/23,2951,31/03/23,4689
+Cabo de la Vela,198,64,Clarita Uriana Epieyu,40821492,Cabo De La Vela,31/01/23,1295,28/02/23,2080,31/03/23,2257
+Cabo de la Vela,199,126,Ingrid Uriana,1134193850,Cabo De La Vela,31/01/23,1304,28/02/23,2760,31/03/23,3850
+Cabo de la Vela,200,183,Karen Omaira Sanches,1118803495,Cabo De La Vela,31/01/23,1139,28/02/23,1640,31/03/23,2626
+Cabo de la Vela,201,203,Luis Vicente Ipuana,17826529,Cabo De La Vela,31/01/23,1086,28/02/23,2068,31/03/23,3092
+Cabo de la Vela,202,219,Maria Conchita Uriana Epieyu,56070386,Cabo De La Vela,31/01/23,1338,28/02/23,3856,31/03/23,9929
+Cabo de la Vela,203,250,Nelson Ipuana,17828496,Cabo De La Vela,31/01/23,1182,28/02/23,3265,31/03/23,8325
+Cabo de la Vela,204,252,Nelson Salvador Ipuana,84063594,Cabo De La Vela,31/01/23,1281,28/02/23,2592,31/03/23,3826
+Cabo de la Vela,205,256,Oulemar Ipuana,84065352,Cabo De La Vela,31/01/23,1461,28/02/23,2136,31/03/23,2488
+Cabo de la Vela,206,264,Rafael Reyes Ipuana,84063595,Cabo De La Vela,31/01/23,1093,28/02/23,1844,31/03/23,5152
+Cabo de la Vela,207,280,Rosinis Ipuana Epinayu,1124358826,Cabo De La Vela,31/01/23,1490,28/02/23,2181,31/03/23,2744
+Cabo de la Vela,208,283,Samuel Uriana,1134193853,Cabo De La Vela,31/01/23,1292,28/02/23,2787,31/03/23,3064
+Cabo de la Vela,209,287,Segundo Estivenzon Camargo,84087262,Cabo De La Vela,31/01/23,1405,28/02/23,3097,31/03/23,9112
+Cabo de la Vela,210,35,Armando Rafael Barliza,17825899,Cabo De La Vela,31/01/23,1143,28/02/23,2695,31/03/23,6290
+Cabo de la Vela,211,53,Carmen Luisa Marin G,40933334,Cabo De La Vela,31/01/23,1053,28/02/23,1307,31/03/23,1480
+Cabo de la Vela,212,55,Carolina Del Mar Bernier Barliza,1147947348,Cabo De La Vela,31/01/23,1173,28/02/23,1948,31/03/23,5419
+Cabo de la Vela,213,80,Dominga Lopez Barliza,56072722,Cabo De La Vela,31/01/23,1145,28/02/23,1626,31/03/23,4869
+Cabo de la Vela,214,87,Eileen Jattin Bueno,1124478907,Cabo De La Vela,31/01/23,1121,28/02/23,2552,31/03/23,6092
+Cabo de la Vela,215,99,Fabian Jose Sanches Baron,1010075927,Cabo De La Vela,31/01/23,1290,28/02/23,1394,31/03/23,2696
+Cabo de la Vela,216,107,German Barliza Epinayu,84064995,Cabo De La Vela,31/01/23,1039,28/02/23,1984,31/03/23,3174
+Cabo de la Vela,217,115,Hermelinda Vitola Barliza,40941881,Cabo De La Vela,31/01/23,1359,28/02/23,3648,31/03/23,4774
+Cabo de la Vela,218,182,Justo Pastor Arboleda,1687960,Cabo De La Vela,31/01/23,1122,28/02/23,2998,31/03/23,6353
+Cabo de la Vela,219,270,Roberto Carlos Castro,78740052,Cabo De La Vela,31/01/23,1448,28/02/23,2374,31/03/23,3147
+Cabo de la Vela,220,309,Yainellis Paola Marin Barliza,1124504054,Cabo De La Vela,31/01/23,1004,28/02/23,2222,31/03/23,5773
+Cabo de la Vela,221,321,Yovaica Silene Bernier B,40941173,Cabo De La Vela,31/01/23,1260,28/02/23,3288,31/03/23,6756
+Cabo de la Vela,222,42,Berni Jose Hernandez,84028134,Cabo De La Vela,31/01/23,1201,28/02/23,2758,31/03/23,5388
+Cabo de la Vela,223,46,Brayan Jose Hernandez,1118822661,Cabo De La Vela,31/01/23,1235,28/02/23,1365,31/03/23,1804
+Cabo de la Vela,224,49,Camilo Uriana Medero,5184920,Cabo De La Vela,31/01/23,1417,28/02/23,2785,31/03/23,6856
+Cabo de la Vela,225,54,Carmen Raquel Gomez,26961164,Cabo De La Vela,31/01/23,1383,28/02/23,2952,31/03/23,3541
+Cabo de la Vela,226,60,Centro De Salud Cabo De La Vela,1119837595,Cabo De La Vela,31/01/23,1117,28/02/23,3133,31/03/23,5404
+Cabo de la Vela,227,92,Elka Bueno Marin,1124496333,Cabo De La Vela,31/01/23,1046,28/02/23,2351,31/03/23,3705
+Cabo de la Vela,228,97,Erwin Manuel Bueno Marin,1118801146,Cabo De La Vela,31/01/23,1184,28/02/23,1969,31/03/23,2633
+Cabo de la Vela,229,109,Gladys Maria Marin Gutierrez,40919975,Cabo De La Vela,31/01/23,1267,28/02/23,3054,31/03/23,3082
+Cabo de la Vela,230,122,Ileana Julieth Gutierrez V,40953307,Cabo De La Vela,31/01/23,1198,28/02/23,3477,31/03/23,5973
+Cabo de la Vela,231,142,Jhonatan De Jesus Gamez Marin,1124494590,Cabo De La Vela,31/01/23,1291,28/02/23,2260,31/03/23,4926
+Cabo de la Vela,232,146,Johana Karina Gamez,1124506764,Cabo De La Vela,31/01/23,1392,28/02/23,1725,31/03/23,2506
+Cabo de la Vela,233,177,Judith Del Carmen Diaz C,1124053248,Cabo De La Vela,31/01/23,1330,28/02/23,2165,31/03/23,4428
+Cabo de la Vela,234,210,Magalys Marin Gutierrez,40918644,Cabo De La Vela,31/01/23,1201,28/02/23,2325,31/03/23,2674
+Cabo de la Vela,235,213,Manaris Del Carmen Lopez B,40820717,Cabo De La Vela,31/01/23,1483,28/02/23,4060,31/03/23,8611
+Cabo de la Vela,236,236,Meris Rosiris Beltran,56098580,Cabo De La Vela,31/01/23,1155,28/02/23,3103,31/03/23,6122
+Cabo de la Vela,237,296,Sugel Gamez,1006638125,Cabo De La Vela,31/01/23,1094,28/02/23,1829,31/03/23,2949
+Cabo de la Vela,238,318,Juana Segunda Gutierrez Velasquez,56070083,Cabo De La Vela,31/01/23,1268,28/02/23,2811,31/03/23,3571
+Cabo de la Vela,239,2,Abraham De Jesus Marin,5185170,Cabo De La Vela,31/01/23,1243,28/02/23,2546,31/03/23,3970
+Cabo de la Vela,240,12,Alda Maria Laguna Barliza,56069658,Cabo De La Vela,31/01/23,1074,28/02/23,2346,31/03/23,5175
+Cabo de la Vela,241,15,Alfredo Pana,5185244,Cabo De La Vela,31/01/23,1321,28/02/23,2567,31/03/23,7123
+Cabo de la Vela,242,19,Ana Karina Murgas,1124520614,Cabo De La Vela,31/01/23,1233,28/02/23,2603,31/03/23,6881
+Cabo de la Vela,243,29,Anyelo Gilberto Romero,10950684,Cabo De La Vela,31/01/23,1176,28/02/23,2466,31/03/23,4298
+Cabo de la Vela,244,43,Bladimir Barliza Ipuana,17828477,Cabo De La Vela,31/01/23,1133,28/02/23,2230,31/03/23,5907
+Cabo de la Vela,245,50,Carlos Enrique Gomez E,1147947546,Cabo De La Vela,31/01/23,1394,28/02/23,2262,31/03/23,4078
+Cabo de la Vela,246,57,Cecilia Ipuana,56069300,Cabo De La Vela,31/01/23,1399,28/02/23,3469,31/03/23,4090
+Cabo de la Vela,247,68,Damaris Mengual,40917610,Cabo De La Vela,31/01/23,1161,28/02/23,2370,31/03/23,2703
+Cabo de la Vela,248,69,Daneiris Rojas Arrieta,1124508260,Cabo De La Vela,31/01/23,1279,28/02/23,3200,31/03/23,5270
+Cabo de la Vela,249,76,Digna Luz Epieyu,56072626,Cabo De La Vela,31/01/23,1303,28/02/23,3252,31/03/23,9475
+Cabo de la Vela,250,81,Edgar Moises Laguna Bernier,1124544561,Cabo De La Vela,31/01/23,1200,28/02/23,2851,31/03/23,5059
+Cabo de la Vela,251,82,Edglin Hernandez Gutierrez,84081555,Cabo De La Vela,31/01/23,1443,28/02/23,1560,31/03/23,3391
+Cabo de la Vela,252,83,Edmundo Edjardo Hernandez,84080804,Cabo De La Vela,31/01/23,1141,28/02/23,2835,31/03/23,6078
+Cabo de la Vela,253,90,Elina Pushaina,56069299,Cabo De La Vela,31/01/23,1319,28/02/23,3837,31/03/23,6237
+Cabo de la Vela,254,106,Geraldine Marin,1124404491,Cabo De La Vela,31/01/23,1120,28/02/23,1386,31/03/23,2449
+Cabo de la Vela,255,112,Graciela Isabel Olaya Deluque,40950852,Cabo De La Vela,31/01/23,1019,28/02/23,2390,31/03/23,5308
+Cabo de la Vela,256,113,Guillermina Barliza,40918051,Cabo De La Vela,31/01/23,1039,28/02/23,2883,31/03/23,7724
+Cabo de la Vela,257,114,Henry Rafael Lopez B,17869479,Cabo De La Vela,31/01/23,1143,28/02/23,2070,31/03/23,4677
+Cabo de la Vela,258,123,Indira M Peralta Gutierrez,1124540543,Cabo De La Vela,31/01/23,1181,28/02/23,2556,31/03/23,4651
+Cabo de la Vela,259,125,Ingrid Epieyu,40850642,Cabo De La Vela,31/01/23,1243,28/02/23,2676,31/03/23,6847
+Cabo de la Vela,260,137,Jeison Hernandez,84096425,Cabo De La Vela,31/01/23,1257,28/02/23,2906,31/03/23,6771
+Cabo de la Vela,261,138,Jesus Barliza Pushaina,84026423,Cabo De La Vela,31/01/23,1372,28/02/23,3432,31/03/23,3859
+Cabo de la Vela,262,171,Juan Manuel Hernandez,84078408,Cabo De La Vela,31/01/23,1319,28/02/23,2799,31/03/23,5107
+Cabo de la Vela,263,172,Juan Segundo Sijona,1148144326,Cabo De La Vela,31/01/23,1223,28/02/23,2064,31/03/23,4343
+Cabo de la Vela,264,178,Julio Alfonso Hernandez G,17809808,Cabo De La Vela,31/01/23,1014,28/02/23,2819,31/03/23,2832
+Cabo de la Vela,265,192,Leidy Bernier,40994742,Cabo De La Vela,31/01/23,1222,28/02/23,3011,31/03/23,5261
+Cabo de la Vela,266,199,Lorena Haise Barliza E,1192750902,Cabo De La Vela,31/01/23,1419,28/02/23,2229,31/03/23,5022
+Cabo de la Vela,267,205,Luz Enith Alarcon,40838036,Cabo De La Vela,31/01/23,1266,28/02/23,3784,31/03/23,8864
+Cabo de la Vela,268,211,Maikol Rafael Hernandez,1124379661,Cabo De La Vela,31/01/23,1155,28/02/23,2960,31/03/23,3593
+Cabo de la Vela,269,216,Maria Barliza Pushaina,36465360,Cabo De La Vela,31/01/23,1435,28/02/23,3411,31/03/23,7277
+Cabo de la Vela,270,225,Maria Hernandez,40916300,Cabo De La Vela,31/01/23,1493,28/02/23,2705,31/03/23,2871
+Cabo de la Vela,271,227,Maria Jose Barliza,40820575,Cabo De La Vela,31/01/23,1282,28/02/23,2388,31/03/23,4226
+Cabo de la Vela,272,239,Milexis Diomeris Sijona B,56103656,Cabo De La Vela,31/01/23,1042,28/02/23,1767,31/03/23,2529
+Cabo de la Vela,273,246,Naomi Del Carmen Barliza,1192750900,Cabo De La Vela,31/01/23,1131,28/02/23,1533,31/03/23,2980
+Cabo de la Vela,274,260,Pedro Luis Hernandes Mengual,84092698,Cabo De La Vela,31/01/23,1385,28/02/23,2249,31/03/23,4490
+Cabo de la Vela,275,267,Remedios Segunda Gutierrez B,36465007,Cabo De La Vela,31/01/23,1472,28/02/23,4130,31/03/23,8489
+Cabo de la Vela,276,285,Saray De Jesus Barliza Epieyu,1192750899,Cabo De La Vela,31/01/23,1401,28/02/23,2595,31/03/23,7756
+Cabo de la Vela,277,293,Simona Andrioli Uriana,40852255,Cabo De La Vela,31/01/23,1284,28/02/23,3783,31/03/23,8535
+Cabo de la Vela,278,294,Sindy Paola Gomez A,1192905304,Cabo De La Vela,31/01/23,1415,28/02/23,1742,31/03/23,5119
+Cabo de la Vela,279,302,Wenyelis Peralta Barlisa,1006910337,Cabo De La Vela,31/01/23,1123,28/02/23,2846,31/03/23,5801
+Cabo de la Vela,280,303,Wilfredo Jose Pana Alarcon,1124408170,Cabo De La Vela,31/01/23,1442,28/02/23,2508,31/03/23,4773
+Cabo de la Vela,281,312,Yeiler Paul Barliza Ipuana,1124484387,Cabo De La Vela,31/01/23,1129,28/02/23,2619,31/03/23,6367
+Cabo de la Vela,282,323,Yusney Gomez Epieyu,1192750848,Cabo De La Vela,31/01/23,1293,28/02/23,1551,31/03/23,3007
+Cabo de la Vela,283,324,Zorangely Paola Puentes H,1124484176,Cabo De La Vela,31/01/23,1089,28/02/23,1996,31/03/23,2875
+Cabo de la Vela,284,17,Altamira Pushaina,36465550,Cabo De La Vela,31/01/23,1394,28/02/23,4162,31/03/23,11913
+Cabo de la Vela,285,21,Andreina Rosario Epinayu,1147941883,Cabo De La Vela,31/01/23,1009,28/02/23,1443,31/03/23,2577
+Cabo de la Vela,286,25,Angela Sijona Epinayu,36465593,Cabo De La Vela,31/01/23,1240,28/02/23,1708,31/03/23,4976
+Cabo de la Vela,287,30,Apolinar Pushaina,84064981,Cabo De La Vela,31/01/23,1365,28/02/23,2131,31/03/23,5028
+Cabo de la Vela,288,40,Benjamin Pushaina,17828511,Cabo De La Vela,31/01/23,1298,28/02/23,2849,31/03/23,7655
+Cabo de la Vela,289,56,Casimiro Pushaina,1124487482,Cabo De La Vela,31/01/23,1037,28/02/23,2060,31/03/23,2641
+Cabo de la Vela,290,67,Cristina Uriana,1147947389,Cabo De La Vela,31/01/23,1028,28/02/23,2428,31/03/23,6521
+Cabo de la Vela,291,95,Ender Enrique Pushaina,17828510,Cabo De La Vela,31/01/23,1409,28/02/23,2379,31/03/23,3233
+Cabo de la Vela,292,96,Erwin Jecey Bernier Ipuana,84064966,Cabo De La Vela,31/01/23,1004,28/02/23,2463,31/03/23,6063
+Cabo de la Vela,293,111,Gladys Uriana Sijona,1147947155,Cabo De La Vela,31/01/23,1446,28/02/23,2795,31/03/23,3611
+Cabo de la Vela,294,147,Johana Paola Pushaina,1006918185,Cabo De La Vela,31/01/23,1433,28/02/23,3890,31/03/23,8698
+Cabo de la Vela,295,230,Marilin Barliza Pushaina,1124491807,Cabo De La Vela,31/01/23,1343,28/02/23,1494,31/03/23,2118
+Cabo de la Vela,296,242,Miriam Ipuana Pushaina,40821615,Cabo De La Vela,31/01/23,1466,28/02/23,3518,31/03/23,6482
+Cabo de la Vela,297,247,Narciso Pushaina,1124487472,Cabo De La Vela,31/01/23,1110,28/02/23,1659,31/03/23,3311
+Cabo de la Vela,298,286,Sarays Pushaina Ipuana,1140364385,Cabo De La Vela,31/01/23,1375,28/02/23,1511,31/03/23,2985
+Cabo de la Vela,299,314,Yesica Paola Barliza Pushaina,1124494106,Cabo De La Vela,31/01/23,1217,28/02/23,1602,31/03/23,2128
+Cabo de la Vela,300,325,Adriana Carolina Epinayu,1006918549,Pujuru,31/01/23,1282,28/02/23,1407,31/03/23,3464
+Cabo de la Vela,301,326,Alfonso Uriana,1140364075,Pujuru,31/01/23,1128,28/02/23,2132,31/03/23,4643
+Cabo de la Vela,302,327,Altamira Epieyu Epieyu,1147946973,Pujuru,31/01/23,1351,28/02/23,3576,31/03/23,8505
+Cabo de la Vela,303,328,Ana Elvira Barliza Epieyu,1140364142,Pujuru,31/01/23,1465,28/02/23,3492,31/03/23,5366
+Cabo de la Vela,304,329,Ana Gomez Epieyu,1124484518,Pujuru,31/01/23,1116,28/02/23,2900,31/03/23,6005
+Cabo de la Vela,305,330,Baltazar Junior Orozco Epieyu,1124403157,Pujuru,31/01/23,1404,28/02/23,2056,31/03/23,5738
+Cabo de la Vela,306,331,Blanca Ipuana Epinayu,1140364003,Pujuru,31/01/23,1143,28/02/23,2219,31/03/23,5285
+Cabo de la Vela,307,332,Deyeilys Epinayu,40857619,Pujuru,31/01/23,1016,28/02/23,1446,31/03/23,4121
+Cabo de la Vela,308,333,Eferson Gomez Epieyu,1124484516,Pujuru,31/01/23,1407,28/02/23,2203,31/03/23,5706
+Cabo de la Vela,309,334,Elvira Gomez ,40838809,Pujuru,31/01/23,1135,28/02/23,1971,31/03/23,4890
+Cabo de la Vela,310,335,Emelina Uriana ,56050135,Pujuru,31/01/23,1254,28/02/23,1771,31/03/23,4705
+Cabo de la Vela,311,336,Gaitan Gomez Barliza,5179119,Pujuru,31/01/23,1236,28/02/23,1803,31/03/23,2554
+Cabo de la Vela,312,337,Johana Barliza Ipuana,1006918516,Pujuru,31/01/23,1127,28/02/23,3192,31/03/23,4436
+Cabo de la Vela,313,338,Josefina Uriana ,56072627,Pujuru,31/01/23,1367,28/02/23,1607,31/03/23,1754
+Cabo de la Vela,314,339,Keila Olisbeth Barliza Epieyu,1140364126,Pujuru,31/01/23,1157,28/02/23,2709,31/03/23,7590
+Cabo de la Vela,315,340,Luis Antonio Barliza Ipuana ,1006918515,Pujuru,31/01/23,1438,28/02/23,3215,31/03/23,7908
+Cabo de la Vela,316,341,Luis Barliza Uriana ,12465275,Pujuru,31/01/23,1277,28/02/23,3036,31/03/23,5531
+Cabo de la Vela,317,342,Maria Elena Gomez,40838238,Pujuru,31/01/23,1466,28/02/23,2447,31/03/23,2648
+Cabo de la Vela,318,343,Maribel Uriana Montiel,1140368107,Pujuru,31/01/23,1394,28/02/23,2863,31/03/23,7035
+Cabo de la Vela,319,344,Martha Barliza Epieyu,1140364161,Pujuru,31/01/23,1021,28/02/23,2024,31/03/23,5202
+Cabo de la Vela,320,345,Miguelito Epieyu ,17865911,Pujuru,31/01/23,1001,28/02/23,1767,31/03/23,3757
+Cabo de la Vela,321,346,Susana Epieyu,36465576,Pujuru,31/01/23,1174,28/02/23,3433,31/03/23,9400
+Cabo de la Vela,322,347,UCA ICBF Pujuru,1124484518,Pujuru,31/01/23,1404,28/02/23,1662,31/03/23,4080
+Cabo de la Vela,323,348,Venecia Epinayu ,36465525,Pujuru,31/01/23,1256,28/02/23,2467,31/03/23,3233
+Cabo de la Vela,324,349,Yoilda Epinayu,1147947365,Pujuru,31/01/23,1246,28/02/23,1312,31/03/23,1674
+Cabo de la Vela,325,16,Altagracia Uriana Pino,26264674,Cabo De La Vela,31/01/23,1450,28/02/23,3127,31/03/23,6586
+Cabo de la Vela,326,18,Ana Carmen Marin Gutierrez,56069601,Cabo De La Vela,31/01/23,1147,28/02/23,2175,31/03/23,4530
+Cabo de la Vela,327,26,Angelica Ibarra,1148151033,Cabo De La Vela,31/01/23,1377,28/02/23,3191,31/03/23,9003
+Cabo de la Vela,328,45,Brayan Carlos Vidal Gutierrez,1124500453,Cabo De La Vela,31/01/23,1135,28/02/23,2384,31/03/23,6049
+Cabo de la Vela,329,71,Danna Gamez,1124193842,Cabo De La Vela,31/01/23,1267,28/02/23,1344,31/03/23,2504
+Cabo de la Vela,330,84,Edson Gamez Pino,84032618,Cabo De La Vela,31/01/23,1058,28/02/23,1909,31/03/23,4118
+Cabo de la Vela,331,91,Elisabeth Polanco Ibarra,1237689153,Cabo De La Vela,31/01/23,1050,28/02/23,1490,31/03/23,3487
+Cabo de la Vela,332,94,Emanuel Andrade Polanco,1237444189,Cabo De La Vela,31/01/23,1407,28/02/23,2360,31/03/23,5825
+Cabo de la Vela,333,98,Esmeralda Verbel Ibarra,40984377,Cabo De La Vela,31/01/23,1430,28/02/23,2177,31/03/23,5863
+Cabo de la Vela,334,101,Flor De Las Nieves Cantillo,40916572,Cabo De La Vela,31/01/23,1040,28/02/23,2719,31/03/23,5229
+Cabo de la Vela,335,105,Franklin Baez Pushaina,27401134,Cabo De La Vela,31/01/23,1138,28/02/23,1583,31/03/23,2103
+Cabo de la Vela,336,117,Hernesto De La Espriella,1124513611,Cabo De La Vela,31/01/23,1193,28/02/23,1811,31/03/23,4708
+Cabo de la Vela,337,121,Iglesia Catolica Diocesis,825003428-5,Cabo De La Vela,31/01/23,1019,28/02/23,1233,31/03/23,2612
+Cabo de la Vela,338,129,Isaida Pino Martinez,40926289,Cabo De La Vela,31/01/23,1175,28/02/23,2095,31/03/23,4655
+Cabo de la Vela,339,148,Jolman De Jesus Gamez Marin,84093341,Cabo De La Vela,31/01/23,1200,28/02/23,2441,31/03/23,6210
+Cabo de la Vela,340,159,Jose Antonio Matute sanchez,84028755,Cabo De La Vela,31/01/23,1069,28/02/23,2006,31/03/23,4258
+Cabo de la Vela,341,170,Juan Carlos Gutierrez,1147947042,Cabo De La Vela,31/01/23,1255,28/02/23,2313,31/03/23,5202
+Cabo de la Vela,342,187,Kelly Johana Pushaina,1147939171,Cabo De La Vela,31/01/23,1431,28/02/23,2148,31/03/23,4482
+Cabo de la Vela,343,188,Kendry Milena Barros Lopez,1118815349,Cabo De La Vela,31/01/23,1457,28/02/23,2788,31/03/23,6989
+Cabo de la Vela,344,193,Leonidas Antonio Correa G,17809962,Cabo De La Vela,31/01/23,1137,28/02/23,2908,31/03/23,7789
+Cabo de la Vela,345,201,Luis A Uriana Uriana,17868694,Cabo De La Vela,31/01/23,1373,28/02/23,1663,31/03/23,1844
+Cabo de la Vela,346,240,Mileynis Epieyu,1124511925,Cabo De La Vela,31/01/23,1061,28/02/23,1363,31/03/23,3021
+Cabo de la Vela,347,243,Miss Neleyn Garcia Salgado,1235239869,Cabo De La Vela,31/01/23,1204,28/02/23,2097,31/03/23,4474
+Cabo de la Vela,348,261,Puesto De Policia,0,Cabo De La Vela,31/01/23,1471,28/02/23,1933,31/03/23,2207
+Cabo de la Vela,349,275,Rosa Velasquez,27023180,Cabo De La Vela,31/01/23,1022,28/02/23,2236,31/03/23,4486
+Cabo de la Vela,350,292,Silvia Del Carmen Matute,56069773,Cabo De La Vela,31/01/23,1291,28/02/23,3376,31/03/23,7219
+Cabo de la Vela,351,299,Tulio Betin Navarro,6890084,Cabo De La Vela,31/01/23,1129,28/02/23,2435,31/03/23,4263
+Cabo de la Vela,352,307,Yadira Baron,56070776,Cabo De La Vela,31/01/23,1441,28/02/23,3514,31/03/23,8293
+Cabo de la Vela,353,6,Agustina Uriana,56077868,Cabo De La Vela,31/01/23,1193,28/02/23,1541,31/03/23,3791
+Cabo de la Vela,354,24,Angel Alberto Henrique Gomez,1192810324,Cabo De La Vela,31/01/23,1445,28/02/23,2850,31/03/23,3633
+Cabo de la Vela,355,33,Arlin Gomez,1123997696,Cabo De La Vela,31/01/23,1050,28/02/23,2672,31/03/23,3138
+Cabo de la Vela,356,48,Camilo Palmar Fajardo,84076647,Cabo De La Vela,31/01/23,1036,28/02/23,1063,31/03/23,1427
+Cabo de la Vela,357,58,Cecilio Barliza Girnu,84064890,Cabo De La Vela,31/01/23,1092,28/02/23,2390,31/03/23,2855
+Cabo de la Vela,358,78,Dixon Ipuana,1010148274,Cabo De La Vela,31/01/23,1450,28/02/23,2440,31/03/23,6684
+Cabo de la Vela,359,100,Fabian Uriana,1147940962,Cabo De La Vela,31/01/23,1003,28/02/23,2980,31/03/23,6278
+Cabo de la Vela,360,108,Gilber Caraballo,3799891,Cabo De La Vela,31/01/23,1394,28/02/23,3985,31/03/23,8857
+Cabo de la Vela,361,119,Idenia Andreina Gomez Ipuana,1124513770,Cabo De La Vela,31/01/23,1483,28/02/23,4011,31/03/23,4428
+Cabo de la Vela,362,120,Idenia Gomez Ipuana,40928157,Cabo De La Vela,31/01/23,1104,28/02/23,2012,31/03/23,5041
+Cabo de la Vela,363,136,Jeinny Harbey Palacio,84034971,Cabo De La Vela,31/01/23,1068,28/02/23,2393,31/03/23,2677
+Cabo de la Vela,364,153,Jorge Gabriel Berrio,1147947388,Cabo De La Vela,31/01/23,1410,28/02/23,3617,31/03/23,6292
+Cabo de la Vela,365,154,Jorge Jesus Bernier Epinayu,84088377,Cabo De La Vela,31/01/23,1146,28/02/23,3421,31/03/23,8021
+Cabo de la Vela,366,164,Jose Victor Duran Fajardo,1124499679,Cabo De La Vela,31/01/23,1444,28/02/23,3846,31/03/23,10838
+Cabo de la Vela,367,179,Julio Cesar Flores Albornos,72222134,Cabo De La Vela,31/01/23,1225,28/02/23,1675,31/03/23,4550
+Cabo de la Vela,368,181,Jusavia Jasay Bonivento,1193533092,Cabo De La Vela,31/01/23,1338,28/02/23,3228,31/03/23,7672
+Cabo de la Vela,369,195,Lesman Bernier,84028661,Cabo De La Vela,31/01/23,1243,28/02/23,3690,31/03/23,9800
+Cabo de la Vela,370,206,Luz Maria Barliza Sanchez,40931074,Cabo De La Vela,31/01/23,1125,28/02/23,2019,31/03/23,4769
+Cabo de la Vela,371,209,Luz Mery Bernier Epinayu,40937537,Cabo De La Vela,31/01/23,1365,28/02/23,1757,31/03/23,2867
+Cabo de la Vela,372,232,Marlene Rosado Gomez,40927358,Cabo De La Vela,31/01/23,1499,28/02/23,1667,31/03/23,4491
+Cabo de la Vela,373,234,Marzol Estrella Gomez Ipuana,40931979,Cabo De La Vela,31/01/23,1492,28/02/23,3549,31/03/23,4308
+Cabo de la Vela,374,249,Nelly Bernier Epinayu,40915855,Cabo De La Vela,31/01/23,1169,28/02/23,2835,31/03/23,8162
+Cabo de la Vela,375,268,Rexsa Antonia Bernier Epinayu,40919119,Cabo De La Vela,31/01/23,1207,28/02/23,3032,31/03/23,6495
+Cabo de la Vela,376,272,Roiny Pucciny,1118832068,Cabo De La Vela,31/01/23,1261,28/02/23,2307,31/03/23,6174
+Cabo de la Vela,377,281,Rosita Sanches Guirnu,40923823,Cabo De La Vela,31/01/23,1441,28/02/23,4256,31/03/23,10726
+Cabo de la Vela,378,288,Serafin Silvestre Gomez,17845136,Cabo De La Vela,31/01/23,1022,28/02/23,1111,31/03/23,1318
+Cabo de la Vela,379,310,Yajaira Baron Gomez,56103723,Cabo De La Vela,31/01/23,1319,28/02/23,2634,31/03/23,4758
+Cabo de la Vela,380,1,Aaron Laguna,84068566,Cabo De La Vela,31/01/23,1108,28/02/23,1864,31/03/23,4152
+Cabo de la Vela,381,5,Adriana Maria Bruges,1121528765,Cabo De La Vela,31/01/23,1351,28/02/23,2876,31/03/23,4666
+Cabo de la Vela,382,13,Alenis Patricia Torres,56054144,Cabo De La Vela,31/01/23,1189,28/02/23,1599,31/03/23,4010
+Cabo de la Vela,383,22,Andres Estarita Salsedo,1081828425,Cabo De La Vela,31/01/23,1262,28/02/23,1306,31/03/23,1630
+Cabo de la Vela,384,44,Blanca Rosa Uriana,40848664,Cabo De La Vela,31/01/23,1440,28/02/23,4257,31/03/23,5296
+Cabo de la Vela,385,124,Ingrid Elena Gomez Ipuana,1124487880,Cabo De La Vela,31/01/23,1013,28/02/23,2257,31/03/23,5796
+Cabo de la Vela,386,152,Jorge Eliecer Gomez,17842995,Cabo De La Vela,31/01/23,1035,28/02/23,1930,31/03/23,2770
+Cabo de la Vela,387,158,Jose Alfredo Jimenes,1124512775,Cabo De La Vela,31/01/23,1094,28/02/23,1735,31/03/23,1813
+Cabo de la Vela,388,166,Josefa Estrada Gomez,40929711,Cabo De La Vela,31/01/23,1164,28/02/23,1530,31/03/23,2768
+Cabo de la Vela,389,169,Juan Carlos Barliza Uriana,1124491789,Cabo De La Vela,31/01/23,1416,28/02/23,3369,31/03/23,7569
+Cabo de la Vela,390,175,Juancho Barliza Epieyu,12465418,Cabo De La Vela,31/01/23,1191,28/02/23,1629,31/03/23,1732
+Cabo de la Vela,391,176,Juanita Gomez Ipuana,27034382,Cabo De La Vela,31/01/23,1052,28/02/23,2558,31/03/23,7113
+Cabo de la Vela,392,180,Julio Gonzales Ipuana,1147947356,Cabo De La Vela,31/01/23,1262,28/02/23,2202,31/03/23,6119
+Cabo de la Vela,393,200,Lucila Del carmen Epieyu,56071750,Cabo De La Vela,31/01/23,1238,28/02/23,1780,31/03/23,3180
+Cabo de la Vela,394,202,Luis Gilberto Barliza Epieyu,1006918533,Cabo De La Vela,31/01/23,1186,28/02/23,1803,31/03/23,2613
+Cabo de la Vela,395,204,Luz Dary Gomez Epieyu,1124487428,Cabo De La Vela,31/01/23,1052,28/02/23,2229,31/03/23,2465
+Cabo de la Vela,396,207,Luz Mary Epiayu,56072746,Cabo De La Vela,31/01/23,1329,28/02/23,1675,31/03/23,3201
+Cabo de la Vela,397,214,Margarita Epieyu,56072699,Cabo De La Vela,31/01/23,1395,28/02/23,1714,31/03/23,3809
+Cabo de la Vela,398,223,Maria Epieyu,40848662,Cabo De La Vela,31/01/23,1284,28/02/23,3209,31/03/23,6580
+Cabo de la Vela,399,228,Maria Matilde Barliza,1140372924,Cabo De La Vela,31/01/23,1414,28/02/23,4099,31/03/23,11903
+Cabo de la Vela,400,233,Martha Barliza Epinayu,56069312,Cabo De La Vela,31/01/23,1112,28/02/23,3073,31/03/23,9172
+Cabo de la Vela,401,244,Monica Lopez,40923537,Cabo De La Vela,31/01/23,1239,28/02/23,3544,31/03/23,4602
+Cabo de la Vela,402,251,Nelson Jesus Gomez Epieyu,1193593155,Cabo De La Vela,31/01/23,1107,28/02/23,2112,31/03/23,5272
+Cabo de la Vela,403,255,Olga Ipuana,40938579,Cabo De La Vela,31/01/23,1401,28/02/23,3236,31/03/23,4837
+Cabo de la Vela,404,259,Pedro Ignacio Fajardo Gomez,17844681,Cabo De La Vela,31/01/23,1044,28/02/23,2653,31/03/23,4193
+Cabo de la Vela,405,274,Rosa Matilde Lopez Barliza,56069969,Cabo De La Vela,31/01/23,1296,28/02/23,1515,31/03/23,2906
+Cabo de la Vela,406,276,Rosalia Epieyu,40848707,Cabo De La Vela,31/01/23,1478,28/02/23,2916,31/03/23,8143
+Cabo de la Vela,407,289,Shagida Gomez Sepulveda,1124519648,Cabo De La Vela,31/01/23,1381,28/02/23,4000,31/03/23,6747
+Cabo de la Vela,408,311,Yamairys Estarita Lopez,40927490,Cabo De La Vela,31/01/23,1293,28/02/23,3234,31/03/23,8435
+Cabo de la Vela,409,553,Jinela Sofia Paternina Gomez,1067288398,Cabo De La Vela,31/01/23,1346,28/02/23,2115,31/03/23,4892
+Cabo de la Vela,410,316,Yoiner Epieyu Barliza,1010136685,Cabo De La Vela,31/01/23,1355,28/02/23,1764,31/03/23,2186
+Cabo de la Vela,411,23,Andres Jose Moncanut Morales,79407813,Cabo De La Vela,31/01/23,1498,28/02/23,2482,31/03/23,6995
+Cabo de la Vela,412,63,Clara Ines Epieyu,40839428,Cabo De La Vela,31/01/23,1149,28/02/23,2198,31/03/23,5066
+Cabo de la Vela,413,86,Edwin Salgado Gomez,1124408382,Cabo De La Vela,31/01/23,1425,28/02/23,3433,31/03/23,6363
+Cabo de la Vela,414,89,Eliecer Ipuana,1124491758,Cabo De La Vela,31/01/23,1433,28/02/23,2322,31/03/23,6528
+Cabo de la Vela,415,131,Jackeline Paola Paternina G,1067284498,Cabo De La Vela,31/01/23,1315,28/02/23,3451,31/03/23,8573
+Cabo de la Vela,416,139,Jesus Narciso Epieyu,1140364255,Cabo De La Vela,31/01/23,1460,28/02/23,4357,31/03/23,5764
+Cabo de la Vela,417,144,Joaquin Eloy Arregoces,1118811,Cabo De La Vela,31/01/23,1194,28/02/23,3331,31/03/23,8338
+Cabo de la Vela,418,162,Jose Ignacio Ipuana,17865418,Cabo De La Vela,31/01/23,1280,28/02/23,2073,31/03/23,5733
+Cabo de la Vela,419,173,Juana Ipuana,36465536,Cabo De La Vela,31/01/23,1063,28/02/23,1995,31/03/23,3538
+Cabo de la Vela,420,184,Karen Patricia Pana Gomez,40820669,Cabo De La Vela,31/01/23,1027,28/02/23,2799,31/03/23,7114
+Cabo de la Vela,421,190,Laura Daniela Barliza Epieyu,1140364258,Cabo De La Vela,31/01/23,1442,28/02/23,3308,31/03/23,8505
+Cabo de la Vela,422,197,Lila Epinayu,1124491759,Cabo De La Vela,31/01/23,1322,28/02/23,2321,31/03/23,4292
+Cabo de la Vela,423,229,Maribel Rocio Aroca Barliza,1118805094,Cabo De La Vela,31/01/23,1146,28/02/23,1245,31/03/23,3632
+Cabo de la Vela,424,231,Marlene Gomez Barliza,56094017,Cabo De La Vela,31/01/23,1062,28/02/23,1226,31/03/23,3495
+Cabo de la Vela,425,235,Jenifer Johan Ramirez Gomez,1124487536,Cabo De La Vela,31/01/23,1063,28/02/23,2175,31/03/23,2716
+Cabo de la Vela,426,253,Nini Johana Redondo,1118811085,Cabo De La Vela,31/01/23,1083,28/02/23,1391,31/03/23,2457
+Cabo de la Vela,427,265,Remedios Barliza Ipuana,27021840,Cabo De La Vela,31/01/23,1243,28/02/23,3349,31/03/23,6715
+Cabo de la Vela,428,290,Sheliany Midelis Barliza,1140369180,Cabo De La Vela,31/01/23,1304,28/02/23,2155,31/03/23,3050
+Cabo de la Vela,429,295,Sonia Epieyu Uriana,1134193965,Cabo De La Vela,31/01/23,1432,28/02/23,3648,31/03/23,7614
+Cabo de la Vela,430,301,Vianis Paola Barliza I,1140364184,Cabo De La Vela,31/01/23,1084,28/02/23,2092,31/03/23,6100
+Cabo de la Vela,431,313,Yesica Katalina Marquez,21074965,Cabo De La Vela,31/01/23,1394,28/02/23,1925,31/03/23,5231
+Cabo de la Vela,432,66,Cristina Ipuana,40848663,Cabo De La Vela,31/01/23,1306,28/02/23,2966,31/03/23,4226
+Cabo de la Vela,433,156,Jorge Samir Gomez fuentes,84107859,Cabo De La Vela,31/01/23,1417,28/02/23,2140,31/03/23,3021
+Cabo de la Vela,434,196,Liceth Paola Barliza,1147947428,Cabo De La Vela,31/01/23,1336,28/02/23,3973,31/03/23,8723
+Cabo de la Vela,435,262,Rafael Ipuana Cayuya,1124513225,Cabo De La Vela,31/01/23,1112,28/02/23,1721,31/03/23,4163
+Cabo de la Vela,436,263,Rafael Ipuana Ipuana,1006919548,Cabo De La Vela,31/01/23,1233,28/02/23,2548,31/03/23,5961
+Cabo de la Vela,437,319,Yoliceth Maria Barliza Ipuana,1147947425,Cabo De La Vela,31/01/23,1477,28/02/23,3011,31/03/23,4996
+Cabo de la Vela,438,28,Antonio Ipuana Gomez,84093635,Cabo De La Vela,31/01/23,1394,28/02/23,3478,31/03/23,5183
+Cabo de la Vela,439,36,Astrid Berney Feria Bergara,22868377,Cabo De La Vela,31/01/23,1496,28/02/23,2788,31/03/23,7625
+Cabo de la Vela,440,37,Aura Bruges Epieyu,56072771,Cabo De La Vela,31/01/23,1026,28/02/23,2952,31/03/23,4426
+Cabo de la Vela,441,65,Conchita Epieyu,1124491769,Cabo De La Vela,31/01/23,1298,28/02/23,2603,31/03/23,6244
+Cabo de la Vela,442,72,Darly Dominga Ipuana,1192905335,Cabo De La Vela,31/01/23,1060,28/02/23,2662,31/03/23,3243
+Cabo de la Vela,443,85,Eduardo Segundo Ipuana,1124487889,Cabo De La Vela,31/01/23,1123,28/02/23,2274,31/03/23,3637
+Cabo de la Vela,444,143,Joakina epiayu,1147947112,Cabo De La Vela,31/01/23,1111,28/02/23,2883,31/03/23,5281
+Cabo de la Vela,445,155,Jorge Luis Ipuana,17828521,Cabo De La Vela,31/01/23,1258,28/02/23,2239,31/03/23,6419
+Cabo de la Vela,446,163,Jose Ipuana Gutierrez,12465439,Cabo De La Vela,31/01/23,1351,28/02/23,1995,31/03/23,5390
+Cabo de la Vela,447,167,Joselito Ipuana Brugez,1151193249,Cabo De La Vela,31/01/23,1464,28/02/23,3805,31/03/23,10881
+Cabo de la Vela,448,194,Lesly Johana Ipuana Epieyu,1192905367,Cabo De La Vela,31/01/23,1076,28/02/23,2519,31/03/23,4094
+Cabo de la Vela,449,237,Michaell Polanco Gomez,84093714,Cabo De La Vela,31/01/23,1464,28/02/23,2547,31/03/23,6047
+Cabo de la Vela,450,277,Rosario Ipuana,36465270,Cabo De La Vela,31/01/23,1267,28/02/23,3801,31/03/23,6569
+Cabo de la Vela,451,282,Sabrina Woodtli,920166,Cabo De La Vela,31/01/23,1496,28/02/23,4108,31/03/23,10896
+Cabo de la Vela,452,305,Willian Reinaldo Redondo,1124383070,Cabo De La Vela,31/01/23,1456,28/02/23,1826,31/03/23,3796
+Cabo de la Vela,453,34,Armando Perez Araujo,17171492,Cabo De La Vela,31/01/23,1330,28/02/23,2113,31/03/23,6197
+Cabo de la Vela,454,135,Jarrena Perez Fajardo,1006989019,Cabo De La Vela,31/01/23,1229,28/02/23,2461,31/03/23,3955
+Cabo de la Vela,455,145,Joel  David Blandeblasquez ,1124516778,Cabo De La Vela,31/01/23,1460,28/02/23,2066,31/03/23,6184
+Cabo de la Vela,456,150,Jorge Eliecer Bernier,1124413131,Cabo De La Vela,31/01/23,1074,28/02/23,3217,31/03/23,5986
+Cabo de la Vela,457,157,Jorge Vicente Bernier,1124501471,Cabo De La Vela,31/01/23,1390,28/02/23,3607,31/03/23,10471
+Cabo de la Vela,458,212,Maily Silene Bernier Ipuana,1124480193,Cabo De La Vela,31/01/23,1046,28/02/23,2166,31/03/23,6107
+Cabo de la Vela,459,248,Nat Nat Beatriz Iguaran,56090776,Cabo De La Vela,31/01/23,1115,28/02/23,2015,31/03/23,3169
+Cabo de la Vela,460,254,Norka Isabel Bernier,1124494305,Cabo De La Vela,31/01/23,1011,28/02/23,1506,31/03/23,3926
+Cabo de la Vela,461,266,Remedios Nicolaza Fajardo G,40792159,Cabo De La Vela,31/01/23,1087,28/02/23,3174,31/03/23,6886
+Cabo de la Vela,462,278,Rosario Ipuana,56072770,Cabo De La Vela,31/01/23,1313,28/02/23,1881,31/03/23,4499
+Cabo de la Vela,463,291,Shirly Yohana Bernier,1124487883,Cabo De La Vela,31/01/23,1428,28/02/23,4199,31/03/23,8501
+Cabo de la Vela,464,14,Alfonso Epieyu Ipuana,1124484489,Cabo De La Vela,31/01/23,1105,28/02/23,2500,31/03/23,3696
+Cabo de la Vela,465,62,Cesar Manuel Segudo Guerra,15209140,Cabo De La Vela,31/01/23,1058,28/02/23,2370,31/03/23,5298
+Cabo de la Vela,466,70,Daniela Uriana Ipuana,1193079369,Cabo De La Vela,31/01/23,1371,28/02/23,2430,31/03/23,4368
+Cabo de la Vela,467,93,Eluz Karina Pana Gomez,40820461,Cabo De La Vela,31/01/23,1021,28/02/23,1177,31/03/23,1377
+Cabo de la Vela,468,103,Francisco Barliza Uriana,1147947426,Cabo De La Vela,31/01/23,1131,28/02/23,1683,31/03/23,1788
+Cabo de la Vela,469,168,Juan Barliza Uriana,1192905323,Cabo De La Vela,31/01/23,1054,28/02/23,1576,31/03/23,1925
+Cabo de la Vela,470,174,Juana Rita Velasquez Ipuana,56094102,Cabo De La Vela,31/01/23,1176,28/02/23,2896,31/03/23,4175
+Cabo de la Vela,471,218,Maria Concepcion Ospina,40913433,Cabo De La Vela,31/01/23,1158,28/02/23,2765,31/03/23,4133
+Cabo de la Vela,472,238,Miladys Ipuana,1140373571,Cabo De La Vela,31/01/23,1438,28/02/23,2352,31/03/23,3163
+Cabo de la Vela,473,245,Nancy Remedios Gomez G,40793591,Cabo De La Vela,31/01/23,1045,28/02/23,3097,31/03/23,4819
+Cabo de la Vela,474,284,Sara Elena Gomez Barliza,27020390,Cabo De La Vela,31/01/23,1480,28/02/23,4046,31/03/23,7123
+Cabo de la Vela,475,298,Trina Epiayu Ipuana,1124478925,Cabo De La Vela,31/01/23,1187,28/02/23,1364,31/03/23,3969
+Cabo de la Vela,476,304,William Ipuana,1147947577,Cabo De La Vela,31/01/23,1286,28/02/23,2674,31/03/23,4024
+Cabo de la Vela,477,88,Elba Segunda Gomez Barliza,40790075,Cabo De La Vela,31/01/23,1097,28/02/23,1303,31/03/23,1388
+Cabo de la Vela,478,350,Abraham epieyu,1124480723,Uchitu>u,31/01/23,1422,28/02/23,1442,31/03/23,4142
+Cabo de la Vela,479,354,Alba Rosa Uriana,1147947331,Uchitu>u,31/01/23,1289,28/02/23,2723,31/03/23,3615
+Cabo de la Vela,480,355,Alfredo epieyu,17856719,Uchitu>u,31/01/23,1176,28/02/23,2147,31/03/23,6230
+Cabo de la Vela,481,357,Alicia uriana,1147947430,Uchitu>u,31/01/23,1346,28/02/23,3828,31/03/23,9293
+Cabo de la Vela,482,361,Arinda uriana,1124491737,Uchitu>u,31/01/23,1316,28/02/23,3391,31/03/23,9784
+Cabo de la Vela,483,390,Luis Santiago Epieyu,1147690891,Uchitu>u,31/01/23,1341,28/02/23,2936,31/03/23,4144
+Cabo de la Vela,484,398,Marina epieyu,1124491731,Uchitu>u,31/01/23,1074,28/02/23,2061,31/03/23,4142
+Cabo de la Vela,485,407,Santiago Epieyu,1147947477,Uchitu>u,31/01/23,1242,28/02/23,1863,31/03/23,4006
+Cabo de la Vela,486,410,Teresa Epieyu,1124491732,Uchitu>u,31/01/23,1065,28/02/23,2854,31/03/23,5645
+Cabo de la Vela,487,414,Victor antonio ipuana,1124487477,Uchitu>u,31/01/23,1122,28/02/23,2173,31/03/23,3249
+Cabo de la Vela,488,418,Yudis Del Carmen Bruges I,1140364015,Uchitu>u,31/01/23,1282,28/02/23,2024,31/03/23,2783
+Cabo de la Vela,489,351,Aciana Uriana Uriana ,1147947279,Uchitu>u,31/01/23,1427,28/02/23,3164,31/03/23,6649
+Cabo de la Vela,490,352,Adela Epieyu,1124491744,Uchitu>u,31/01/23,1234,28/02/23,1501,31/03/23,2885
+Cabo de la Vela,491,353,Adelaida Epieyu,1151193142,Uchitu>u,31/01/23,1122,28/02/23,2529,31/03/23,7040
+Cabo de la Vela,492,356,Alfredo epieyu,1147947310,Uchitu>u,31/01/23,1339,28/02/23,1432,31/03/23,4093
+Cabo de la Vela,493,358,Ana Epieyu ,56072651,Uchitu>u,31/01/23,1258,28/02/23,2310,31/03/23,4733
+Cabo de la Vela,494,359,Ana Maria Uriana Epieyu,56069302,Uchitu>u,31/01/23,1141,28/02/23,1603,31/03/23,3737
+Cabo de la Vela,495,360,Angela Epieyu Uriana ,1140364163,Uchitu>u,31/01/23,1098,28/02/23,1138,31/03/23,1649
+Cabo de la Vela,496,362,Armando Uriana ,17828491,Uchitu>u,31/01/23,1011,28/02/23,2624,31/03/23,6003
+Cabo de la Vela,497,363,Aura Uriana ,56072748,Uchitu>u,31/01/23,1269,28/02/23,1727,31/03/23,4647
+Cabo de la Vela,498,364,Carmen Uriana Epieyu,1147947352,Uchitu>u,31/01/23,1276,28/02/23,1844,31/03/23,3697
+Cabo de la Vela,499,365,Casta Elena Barliza Uriana,1192905328,Uchitu>u,31/01/23,1136,28/02/23,1343,31/03/23,2176
+Cabo de la Vela,500,366,Colegio Remedios Fajardo,40981608,Uchitu>u,31/01/23,1091,28/02/23,1677,31/03/23,4996
+Cabo de la Vela,501,367,Daniela Epieyu Barliza,1192905271,Uchitu>u,31/01/23,1498,28/02/23,2679,31/03/23,6477
+Cabo de la Vela,502,368,Dilia Omaira Epieyu,36465021,Uchitu>u,31/01/23,1456,28/02/23,4282,31/03/23,9601
+Cabo de la Vela,503,369,Enrique Epinayu,17856293,Uchitu>u,31/01/23,1486,28/02/23,4221,31/03/23,11247
+Cabo de la Vela,504,370,Felipe Epieyu Uriana ,5185114,Uchitu>u,31/01/23,1271,28/02/23,3075,31/03/23,8006
+Cabo de la Vela,505,374,Patricia Uriana Iglesia Uchitu>u,56069306,Uchitu>u,31/01/23,1059,28/02/23,2382,31/03/23,2901
+Cabo de la Vela,506,375,Ines Uriana Uriana,1124412061,Uchitu>u,31/01/23,1248,28/02/23,1750,31/03/23,2123
+Cabo de la Vela,507,376,Ingrid Uriana ,1124491735,Uchitu>u,31/01/23,1153,28/02/23,2849,31/03/23,6877
+Cabo de la Vela,508,377,Isabel Epinayu,27034586,Uchitu>u,31/01/23,1240,28/02/23,1878,31/03/23,4172
+Cabo de la Vela,509,378,Jackson Jonathan Brito,17828491,Uchitu>u,31/01/23,1240,28/02/23,3090,31/03/23,4292
+Cabo de la Vela,510,379,Jose Gregorio Epieyu,1192905277,Uchitu>u,31/01/23,1039,28/02/23,1050,31/03/23,2977
+Cabo de la Vela,511,380,Jose Manuel Epieyu,1124491714,Uchitu>u,31/01/23,1333,28/02/23,2470,31/03/23,6346
+Cabo de la Vela,512,381,Jose Manuel Uriana Epieyu,5184554,Uchitu>u,31/01/23,1115,28/02/23,1947,31/03/23,3806
+Cabo de la Vela,513,382,Josefa Pushaina Uriana ,1124486582,Uchitu>u,31/01/23,1322,28/02/23,2624,31/03/23,6981
+Cabo de la Vela,514,384,Julio Barliza Uriana ,1147947424,Uchitu>u,31/01/23,1101,28/02/23,1240,31/03/23,1759
+Cabo de la Vela,515,385,Leida Uriana ,1124491733,Uchitu>u,31/01/23,1261,28/02/23,2175,31/03/23,4087
+Cabo de la Vela,516,387,Luis Gervacio Epieyu Uriana,5184542,Uchitu>u,31/01/23,1272,28/02/23,2761,31/03/23,6403
+Cabo de la Vela,517,388,Luis Gervacio Epieyu,1192905276,Uchitu>u,31/01/23,1133,28/02/23,1238,31/03/23,3595
+Cabo de la Vela,518,391,Luisa Uriana ,1124491743,Uchitu>u,31/01/23,1403,28/02/23,3780,31/03/23,6194
+Cabo de la Vela,519,392,Manuel Epieyu Uriana ,84064979,Uchitu>u,31/01/23,1136,28/02/23,2026,31/03/23,2363
+Cabo de la Vela,520,394,Maria Barliza Epieyu,56070533,Uchitu>u,31/01/23,1037,28/02/23,2781,31/03/23,5985
+Cabo de la Vela,521,395,Maria Epinayu Epiayu,1124372261,Uchitu>u,31/01/23,1406,28/02/23,3061,31/03/23,3435
+Cabo de la Vela,522,396,Maria Eugenia Uriana Epieyu,56069301,Uchitu>u,31/01/23,1339,28/02/23,2306,31/03/23,5147
+Cabo de la Vela,523,397,Maria Luisa Uriana ,1147947141,Uchitu>u,31/01/23,1289,28/02/23,3311,31/03/23,8512
+Cabo de la Vela,524,400,Niry Ipuana ,1147947323,Uchitu>u,31/01/23,1398,28/02/23,1676,31/03/23,2775
+Cabo de la Vela,525,401,Norma Barliza Uriana ,1140364051,Uchitu>u,31/01/23,1314,28/02/23,3095,31/03/23,7730
+Cabo de la Vela,526,403,Petra Barliza Uriana ,1140364055,Uchitu>u,31/01/23,1193,28/02/23,1842,31/03/23,4358
+Cabo de la Vela,527,404,Ramona Epinayu,56072749,Uchitu>u,31/01/23,1032,28/02/23,2832,31/03/23,5215
+Cabo de la Vela,528,406,Sandra Paola Uriana Uriana ,1147947277,Uchitu>u,31/01/23,1480,28/02/23,1925,31/03/23,3359
+Cabo de la Vela,529,408,Shasin Uriana ,84065024,Uchitu>u,31/01/23,1106,28/02/23,3136,31/03/23,8379
+Cabo de la Vela,530,409,Tatiana Epieyu Uriana ,1147947130,Uchitu>u,31/01/23,1385,28/02/23,3937,31/03/23,9396
+Cabo de la Vela,531,411,Teresa Urrariyu Uriana ,56103009,Uchitu>u,31/01/23,1307,28/02/23,3319,31/03/23,8160
+Cabo de la Vela,532,412,Tonita Epieyu,1124527211,Uchitu>u,31/01/23,1359,28/02/23,3795,31/03/23,9737
+Cabo de la Vela,533,413,UCA Uchitu>u,1124484493,Uchitu>u,31/01/23,1160,28/02/23,2491,31/03/23,6465
+Cabo de la Vela,534,415,Vita Modesta pushaina ,1192905354,Uchitu>u,31/01/23,1167,28/02/23,3183,31/03/23,3260
+Cabo de la Vela,535,417,Yelitza Uriana Uriana ,1140364091,Uchitu>u,31/01/23,1073,28/02/23,3089,31/03/23,6612
+Cabo de la Vela,536,420,Zoila Uriana ,56072681,Uchitu>u,31/01/23,1063,28/02/23,2334,31/03/23,6646
+Cabo de la Vela,537,371,Francia Ipuana ,1124499118,Uchitu>u,31/01/23,1326,28/02/23,3505,31/03/23,7923
+Cabo de la Vela,538,372,German Epíeyu,1124491756,Uchitu>u,31/01/23,1497,28/02/23,3911,31/03/23,7536
+Cabo de la Vela,539,373,Guillermina Ipuana ,27023469,Uchitu>u,31/01/23,1091,28/02/23,2423,31/03/23,2902
+Cabo de la Vela,540,383,Julio Barliza Uriana ,1147947424,Uchitu>u,31/01/23,1414,28/02/23,4044,31/03/23,8157
+Cabo de la Vela,541,386,Leticia Epieyu,40838103,Uchitu>u,31/01/23,1298,28/02/23,2274,31/03/23,6471
+Cabo de la Vela,542,389,Luis Nolberto Barliza,1192750903,Uchitu>u,31/01/23,1039,28/02/23,1140,31/03/23,1663
+Cabo de la Vela,543,393,Marelvis epieyu Uriana ,1140384137,Uchitu>u,31/01/23,1367,28/02/23,2617,31/03/23,4356
+Cabo de la Vela,544,399,Marlene Pana Ipuana ,1124513022,Uchitu>u,31/01/23,1420,28/02/23,2132,31/03/23,4132
+Cabo de la Vela,545,402,Paulina Ipuana ,1124499117,Uchitu>u,31/01/23,1056,28/02/23,1393,31/03/23,2169
+Cabo de la Vela,546,405,Rita Paola Uriana Epieyu,1147947146,Uchitu>u,31/01/23,1299,28/02/23,3500,31/03/23,8869
+Cabo de la Vela,547,416,Yalexi Paola Barliza E,1192750909,Uchitu>u,31/01/23,1298,28/02/23,3614,31/03/23,10687
+Cabo de la Vela,548,419,Yuleinys Paola Barliza E ,1140372870,Uchitu>u,31/01/23,1288,28/02/23,3179,31/03/23,7183
+Cabo de la Vela,549,424,CDI Media Luna,17809974,Casa Blanca ,31/01/23,1458,28/02/23,2651,31/03/23,7156
+Cabo de la Vela,550,554,Alvaro Gomez Andriolis,1124479097,Cabo De La Vela,31/01/23,1117,28/02/23,2019,31/03/23,3505
+Cabo de la Vela,551,127,Internado Cabo De La Vela,40944742,Cabo De La Vela,31/01/23,1235,28/02/23,1428,31/03/23,3988
